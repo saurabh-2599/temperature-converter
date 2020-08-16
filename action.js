@@ -1,5 +1,5 @@
 //test to check if js is attached correctly
-
+console.log("heybuddy")
 
 //module for conversion formulas
 var formulas=(function(){
